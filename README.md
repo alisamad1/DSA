@@ -69,7 +69,7 @@ To get a local copy up and running, follow these simple steps.
 
 Feel free to reach out if you have questions, suggestions, or just want to connect!
 
--   **LinkedIn**: Ali Us Samad
+-   **LinkedIn**: https://www.linkedin.com/in/ali-samad-841b11301/
 -   **Email**: `aliussamad@gmail.com`
 
 ---
