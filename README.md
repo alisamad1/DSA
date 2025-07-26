@@ -43,7 +43,7 @@ Key topics covered include:
 
 This directory contains a large collection of solutions to problems from LeetCode, organized by question number. It's an excellent resource for practicing patterns commonly seen in technical interviews.
 
-> ### **[➡️ Explore LeetCode Solutions](./Leetcode_Practice_Questions/)**
+> ### **[➡️ Explore LeetCode Solutions](./https://github.com/alisamad1/Leetcode_Sol_in_C-/)**
 >
 > Click the link above to view the dedicated `README.md` for the LeetCode section, which includes detailed information on file naming, topics covered, and how to use the solutions.
 
